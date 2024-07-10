@@ -187,13 +187,9 @@ namespace DemoApp.Controllers
 </html>
 ```
 
-### Screenshots
-
-_Insert screenshots of your application here._
-
 ### GitHub Repository
 
-For more information and to access the complete codebase, visit the [GitHub repository](https://github.com/your-repo/demo-aspnet-mvc).
+For more information and to access the complete codebase, visit the [GitHub repository](https://github.com/Aditiighosh/demo-asp.net-app).
 
 ### Performance Analysis
 
